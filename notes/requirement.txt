@@ -1,0 +1,1 @@
+pip install streamlit psycopg2 pymongo certifi pandas plotly
