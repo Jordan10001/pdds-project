@@ -52,7 +52,7 @@ dan tiap query buat satu file per rumusan masalah jadi jangan di jadiin satu fil
 kemudian di stremlit halamn utama berikan pop up bawah koneksi databasenya terhubung
 
 Keterangan Tambahan
-Untuk Mongo nama databasenya olist dan nama colectionya sama seperti nama yang di data olist_payment_dataset.json, olist_merged_orders_dataset.json
-Untuk Postgre nama kolom nya sama perisi seperti ini     olist_customers_dataset.csv, olist_sellers_dataset.csv, olist_products_dataset.csv
+Untuk Mongo nama databasenya olist dan nama colectionya sama seperti nama yang di data olist_payment_dataset, olist_merged_orders_dataset
+Untuk Postgre nama kolom nya sama perisi seperti ini olist_customers_dataset, olist_sellers_dataset, olist_products_dataset
 
-Hanya dari mongo dan postgre namanya tidak termasuk extension file nya jadi tanpa .json dan .csv. tetapi semua data sudah ready kok
+
