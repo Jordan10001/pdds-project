@@ -1,3 +1,0 @@
-
-deactivation = deactivate
-activation venv= .\.venv\Scripts\activate
